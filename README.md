@@ -5,7 +5,7 @@ Here is some tips on how to ask good questions.
 
 ## What is a question?
 
-It's a representation of a problem.
+It's a representation of a problem.  
 You just need to show the problem.
 
 It doesn't matter how you do it:
