@@ -5,12 +5,11 @@ Here is some tips on how to ask good questions.
 
 ## What is a question?
 
-It's a representation of a problem.  
-You just need to show the problem.
+It's a representation of a problem.
 
 It doesn't matter how you do it:
 2 lines of code or indepth explanations.  
-As far as the problem is understandable you are fine.
+As far as the problem is understandable, you are fine.
 
 ## Don't ask to do your job for you.
 
@@ -37,7 +36,7 @@ but be afraid of asking them the stupid way.
 ## Avoid XY problem.
 
 You want to hammer a nail, but you don't know how to(X),  
-so you grab a microscope and try do it with it.  
+you grab a microscope and try do it with it.  
 After 2 nails the microscope cracks a little and you can't hammer
 nails with it anymore(Y).
 
@@ -70,7 +69,7 @@ If you have a question, chances are that many people have the same question,
 so if you ask the questions the right way you would help a lot of people.
 
 
-## Try to answer some quetions yourself.
+## Try to answer some questions yourself.
 
 It will help you understand how to ask quetions better,  
 because you will see what's actually work and what's not.
@@ -95,7 +94,7 @@ because that's why the article was written in first place.
   * all questions are moderated according to this article,
   so you won't have to deal with shitty questions
 
-  * you won't get punished for asking bad questions,
+  * you won't get punished for asking bad questions,  
   instead we will tell you what needed to be fixed before the question will be posted.
 
   * all answered questions will posted at stackoverflow or any other resource,
