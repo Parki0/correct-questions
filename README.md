@@ -1,6 +1,6 @@
 # How to ask questions about programming
 
-Here is some tips on how to ask good questions.
+Here is some tips on how to ask good questions.  
 (in no particular order)
 
 ## What is a question?
@@ -9,7 +9,7 @@ It's a representation of a problem.
 You just need to show the problem.
 
 It doesn't matter how you do it:
-2 lines of code or indepth explanations.
+2 lines of code or indepth explanations.  
 As far as the problem is understandable you are fine.
 
 ## Don't ask to do your job for you.
@@ -17,15 +17,15 @@ As far as the problem is understandable you are fine.
 There is a line between asking questions
 and asking for doing your job for you.
 
-If you can do it yourself, that's the second and no one will "help" you with that.
+If you can do it yourself, that's the second and no one will "help" you with that.  
 You are not asking for help, you just want to exploit people.
 
 ## Learn how to ask questions.
 
-This is not something you will do once in a year.
+This is not something you will do once in a year.  
 If you code that's your life now, so please do yourself a favor 
-and learn how to ask the questions.
-Don't annoy the fuck out of people by asking poorly asked questions.
+and learn how to ask the questions.  
+Don't annoy the fuck out of people by asking poorly asked questions.  
 They don't get paid for that, so they won't tolerate your bullshit.
 
 ## There is no stupid questions.
