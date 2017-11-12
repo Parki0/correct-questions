@@ -15,7 +15,7 @@ As far as the problem is understandable you are fine.
 ## Don't ask to do your job for you.
 
 There is a line between asking questions
-and asking for doing your job for you.
+and asking for doing your job for you.  
 If you can do it yourself, that's the second and no one will "help" you with that.  
 You are not asking for help, you just want to exploit people.
 
