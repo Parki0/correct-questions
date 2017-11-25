@@ -14,7 +14,7 @@ As far as the problem is understandable, you are fine.
 ## Don't ask to do your job for you.
 
 There is a line between asking questions
-and asking for doing your job for you.  
+and asking others to do your job for you.  
 If you can do it yourself, that's the second and no one will "help" you with that.  
 You are not asking for help, you just want to exploit people.
 
@@ -26,9 +26,9 @@ and learn how to ask the questions.
 Don't annoy the fuck out of people by asking poorly asked questions.  
 They don't get paid for that, so they won't tolerate your bullshit.
 
-## There is no stupid questions.
+## There are no stupid questions.
 
-But there is poorly asked questions.  
+But there are poorly asked questions.  
 So don't be afraid to ask stupid questions,  
 but be afraid of asking them the stupid way.
 
@@ -49,7 +49,7 @@ Tell what the problem is(X), not the problem with your solution(Y).
 
 Words can explain the problem, but they are not the problem itself.
 
-## Cut off the bullshit.
+## Cut the bullshit.
 
 Your code must reproduce the problem and nothing else.  
 By adding anything else you just waste their time.
@@ -63,7 +63,7 @@ so if you don't show it,
 they will waste time doing the same research.
 
 
-## By asking good questions you helping as well.
+## By asking good questions you help as well.
 
 If you have a question, chances are that many people have the same question,  
 so if you ask the questions the right way you would help a lot of people.
@@ -95,7 +95,7 @@ because that's why the article was written in first place.
   so you won't have to deal with shitty questions
 
   * you won't get punished for asking bad questions,  
-  instead we will tell you what needed to be fixed before the question will be posted.
+  instead we will tell you what needs to be fixed before the question will be posted.
 
-  * all answered questions will posted at stackoverflow or any other resource,
-  so by helping us, you helping everyone.
+  * all answered questions will be posted at stackoverflow or any other resource,
+  so by helping us, you help everyone.
